@@ -20,7 +20,7 @@
     "mysql",
     "restapi"
   ],
-  "author": "bezkoder",
+  "author": "luiz alves",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
